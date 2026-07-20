@@ -1,0 +1,10 @@
+#requirements
+
+numpy
+pandas
+matplotlib
+statsmodels
+yfinance
+pandas-datareader
+scipy
+jupyter
