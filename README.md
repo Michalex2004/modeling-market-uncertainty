@@ -88,6 +88,12 @@ The analysis suggests several notable relationships:
 - Monte Carlo simulation illustrates the range of potential future market outcomes under historical assumptions.
 - The VIX showed a statistically significant association with future realized volatility, although much of the variation remained unexplained.
 
+![Monte Carlo Simulation](monte_carlo_output.png)
+
+![VIX Scatter Plot](VIX_Scatter_Plot.png)
+
+![VIX vs Realized Volatility](VIX_Versus_Realized_Volatility.png)
+
 
 
 ---
