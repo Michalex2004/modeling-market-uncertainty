@@ -92,8 +92,7 @@ The analysis suggests several notable relationships:
 
 ![VIX Scatter Plot](VIX_Scatter_Plot.png)
 
-![VIX_vs_Realized Volatility](VIX_Versus_Realized_Volatility.png)
-
+![VIX vs Realized Volatility](VIX_Versus_Realized_Volatility.png)
 
 
 ---
