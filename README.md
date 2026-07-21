@@ -88,6 +88,8 @@ The analysis suggests several notable relationships:
 - Monte Carlo simulation illustrates the range of potential future market outcomes under historical assumptions.
 - The VIX showed a statistically significant association with future realized volatility, although much of the variation remained unexplained.
 
+
+
 ---
 
 ## Repository Structure
@@ -101,6 +103,20 @@ modeling-market-uncertainty/
 ├── .gitignore
 └── LICENSE
 ```
+
+## How to Run
+
+1. Clone this repository.
+2. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open `Modeling_Market_Uncertainty.ipynb` in Jupyter Notebook or VS Code.
+4. Run all cells from top to bottom.
+
+The notebook automatically downloads financial market data from Yahoo Finance and macroeconomic data from FRED.
 
 ---
 
